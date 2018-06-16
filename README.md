@@ -6,9 +6,10 @@ Textures created from scratch in an attempt to recapture the aesthetic of Minecr
 This version of the REFI_Texture pack is for MineClone2.
 
 
-
+Note: This repo is now repurposed as a public-facing backup.
 
 =================================
+
 LICENSE:
 
     * Author: MysticTempest
